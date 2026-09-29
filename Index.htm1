@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ladies Job Work</title>
+</head>
+<body>
+
+<h1>Ladies Job Work</h1>
+<h2>Job Work हिसाब</h2>
+
+<button>ग्राहक / व्यापारी</button>
+<button>Worker</button>
+<button>माल की एंट्री</button>
+<button>Payment / भुगतान</button>
+<button>पूरा हिसाब</button>
+
+</body>
+</html>
